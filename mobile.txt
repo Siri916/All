@@ -4,6 +4,7 @@ version :15.0
 version :16.0
 version 100.0
 Ram :128gb
+Ram:34gb
 Ram : 4gb
 
 
