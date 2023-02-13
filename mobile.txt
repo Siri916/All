@@ -1,8 +1,5 @@
 name : vivo
 version : 12.0
-Ram : 128 gb
-
-
-version : 17.0
+Ram : 4gb
 
 
